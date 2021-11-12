@@ -1,0 +1,1 @@
+x=MsgBox("ERROR, no binary detected!",1+32,"linx")
